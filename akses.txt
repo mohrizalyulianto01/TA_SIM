@@ -1,0 +1,12 @@
+Akses
+admin 
+username : admin
+password : admin
+
+mentor 
+username : bamgun
+password : bamgun
+
+peserta magang
+username : ivan
+password : ivan
